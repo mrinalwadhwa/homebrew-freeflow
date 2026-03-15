@@ -4,7 +4,7 @@ cask "freeflow" do
 
   url "https://github.com/build-trust/freeflow/releases/download/v#{version}/FreeFlow.dmg"
   name "FreeFlow"
-  desc "Hold a key, speak, release. Polished text appears at your cursor."
+  desc "Press a hotkey, dictate naturally, polished text appears in any app."
   homepage "https://github.com/build-trust/freeflow"
 
   depends_on macos: ">= :sonoma"
